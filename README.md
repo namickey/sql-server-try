@@ -83,7 +83,8 @@ Passw0rd
 
 ## for install
 
-
+!(1.png)
+!(2.png)
 
 
 ## for spring-boot
