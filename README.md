@@ -99,3 +99,6 @@ spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=somedb;encryp
 spring.datasource.username=someuser
 spring.datasource.password=password
 ```
+
+データファイル移動  
+https://sql55.com/column/how-to-move-database-using-detach-and-attach.php  
