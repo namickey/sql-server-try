@@ -83,8 +83,27 @@ Passw0rd
 
 ## for install
 
-!(1.png)
-!(2.png)
+![](image/1.PNG)
+![](image/2.PNG)
+![](image/3.PNG)
+![](image/4.PNG)
+![](image/5.PNG)
+![](image/6.PNG)
+![](image/7.PNG)
+![](image/8.PNG)
+![](image/9.PNG)
+![](image/10.PNG)
+![](image/11.PNG)
+![](image/12.PNG)
+![](image/13.PNG)
+![](image/14.PNG)
+![](image/15.PNG)
+![](image/16.PNG)
+![](image/17.PNG)
+![](image/18.PNG)
+![](image/19.PNG)
+![](image/20.PNG)
+![](image/21.PNG)
 
 
 ## for spring-boot
